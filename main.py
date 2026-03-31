@@ -29,7 +29,7 @@ with st.sidebar:
     st.divider()
     st.header("⚡ Quick Actions")
     
-    # Buttons for Phase 2 features
+    # Buttons for  features
     gen_summary = st.button("📑 Generate Summary")
     gen_flashcards = st.button("🎴 Make Flashcards")
     gen_quiz = st.button("📝 Take a Quiz")
